@@ -1,3 +1,3 @@
 # notpap
 This is a test project. 
-Feel free to copy.
+Feel free to reuse code.
